@@ -7,7 +7,8 @@
 # Here's how to we will approach this assignment:
 # 
 # Make a Cache Matrix: This function creates a special "matrix" object that can cache its inverse.
-# Cache Solve: This function computes the inverse of the special "matrix" returned by makeCacheMatrix. If the inverse has already been calculated (and the matrix has not changed), then cacheSolve should retrieve the inverse from the cache.
+# Cache Solve: This function computes the inverse of the special "matrix" returned by makeCacheMatrix. 
+# If the inverse has already been calculated (and the matrix has not changed), then cacheSolve should retrieve the inverse from the cache.
 
 ## Step 1: Create makeCacheMatrix Function
 # This function creates a special "matrix" object that can cache its inverse.
